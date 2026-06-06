@@ -2,6 +2,8 @@
 
 AuraCraft is a premium, high-performance Single Page Application (SPA) e-commerce storefront designed specifically for an AI Hackathon. It features a clean, utilitarian aesthetic (inspired by leading e-commerce platforms like Amazon), comprehensive catalog management, and a fully integrated Natural Language AI Shopping Assistant.
 
+An AI-assisted e-commerce website developed during the Newton School of Technology AI Headstart Bootcamp using Antigravity and Google Gemini Code.
+
 ## 🌟 Key Features
 
 *   **Integrated AI Shopping Assistant**: A sophisticated NLP chatbot located in the bottom right corner. Users can interact with the bot using natural language to filter the catalog (e.g., "Show me bags"), add items to their cart (e.g., "add visor to cart"), or manage their orders.
